@@ -1,0 +1,58 @@
+{
+    "app": {
+        "title": "LifeLink",
+        "subtitle": "Connecting Lives, One Drop at a Time"
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "features": "Features",
+        "contact": "Contact",
+        "login": "Login",
+        "register": "Register",
+        "dashboard": "Dashboard"
+    },
+    "hero": {
+        "title": "Your Blood Can Save a Life",
+        "description": "Join India's most advanced network connecting donors, patients, and blood banks in real-time.",
+        "cta_donate": "I Want to Donate",
+        "cta_request": "Request Blood"
+    },
+    "features": {
+        "real_time": "Real-Time Tracking",
+        "real_time_desc": "Live updates on blood availability and request status.",
+        "network": "Unified Network",
+        "network_desc": "Connecting hospitals, banks, and donors seamlessly.",
+        "fast": "Lightning Fast",
+        "fast_desc": "Emergency requests broadcasted instantly to nearby donors.",
+        "secure": "Secure & Private",
+        "secure_desc": "Your health data is encrypted and protected."
+    },
+    "auth": {
+        "login_title": "Welcome Back",
+        "login_subtitle": "Enter your credentials to access your account",
+        "register_title": "Create your account",
+        "register_subtitle": "Join the healthcare network to save lives",
+        "full_name": "Full Name",
+        "smart_id": "Phone Number / Email",
+        "phone": "10-digit Phone Number",
+        "password": "Password",
+        "login_button": "Secure Login",
+        "register_button": "Register",
+        "no_account": "Don't have an account?",
+        "has_account": "Already have an account?",
+        "role_patient": "Patient",
+        "role_donor": "Donor",
+        "blood_group": "Blood Group",
+        "select_role": "I am a...",
+        "institution_login": "Institution Login",
+        "public_login": "Public Login"
+    },
+    "roles": {
+        "patient": "Patient",
+        "donor": "Donor",
+        "hospital": "Hospital",
+        "bloodbank": "Blood Bank",
+        "clinic": "Clinic"
+    }
+}
